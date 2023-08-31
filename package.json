@@ -9,6 +9,6 @@
   "author": "XK4MiLX",
   "license": "ISC",
   "dependencies": {
-    "axios": "^1.5.0"
+    "axios": "1.5.0"
   }
 }
